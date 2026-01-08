@@ -15,12 +15,7 @@ The project focuses on:
 - Applying the Minimum Spanning Tree concept
 - Understanding how graph algorithms work
 
-**How to run:**
-Compile the program using:
-`gcc P3_1230127_LujainAlawneh_sec4.c -o mst`
-Then run:
-`./mst`
-
+ 
 **Author:**
 Lujain Alawneh  
 COMP2421 – Birzeit University
